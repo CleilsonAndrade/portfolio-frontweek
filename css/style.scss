@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+@import 'sass/colors';
+@import 'sass/typograph';
+
+body {
+  width: 100%;
+  // background-color: $black-dark;
+  background-color: $black-normal;
+}
+
+@import 'sass/spacing';
+@import 'sass/layout';
