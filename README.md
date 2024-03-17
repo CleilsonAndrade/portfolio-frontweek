@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Portfólio #FrontWeek</h1>
+  <h1>Portfolio #FrontWeek</h1>
   <p>Landing page de uma ideia de portfolio.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
