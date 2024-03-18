@@ -5,9 +5,8 @@
 </div>
 
 # 📒 Índice
-
 * [Descrição](#descrição)
-* [Features](#features) 
+* [Requisitos Funcionais](#requisitos)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
@@ -18,7 +17,7 @@
 # 📃 <span id="descrição">Descrição</span>
 Landing page de uma ideia de portfolio, responsivo. Utilizando tecnologias como Sass para estilização e Gsap para as animações. Desenvolvida durante a #FrontWeek realizada pela @FrontPUSH.
 
-## Features
+# 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
 - [x] Animações<br>
 
@@ -50,7 +49,6 @@ Landing page de uma ideia de portfolio, responsivo. Utilizando tecnologias como 
 ```
 
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
