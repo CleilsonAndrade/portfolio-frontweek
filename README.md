@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Portfolio #FrontWeek</h1>
-  <p>Landing page de uma ideia de portfolio.</p>
+  <p>Landing page de uma ideia de portfolio, estudo de responsividade e utilizando lib Gsap para estudo de animações.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
