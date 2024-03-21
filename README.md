@@ -44,7 +44,7 @@ Landing page de uma ideia de portfolio, responsivo. Utilizando tecnologias como 
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/portfolio-frontweek
+  $ git clone https://github.com/CleilsonAndrade/portfolio-frontweek.git
   $ cd ./portfolio-frontweek
 ```
 
