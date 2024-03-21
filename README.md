@@ -39,7 +39,7 @@ Landing page de uma ideia de portfolio, responsivo. Utilizando tecnologias como 
   * #ccc<br>
 
 - <span id="fontes">Fontes<br></span>
-  * Barlow Condensed
+  * Barlow Condensed, sans-serif
 
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
